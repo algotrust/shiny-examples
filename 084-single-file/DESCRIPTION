@@ -1,7 +1,7 @@
-Title: Progress Bar
+Title: Single-file shiny app
 Author: RStudio, Inc.
 AuthorUrl: http://www.rstudio.com/
 License: MIT
 DisplayMode: Showcase
-Tags: custom-message progress
+Tags: single-file
 Type: Shiny
